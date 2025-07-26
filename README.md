@@ -26,4 +26,4 @@ Esta es una aplicación sencilla de Lista de Tareas desarrollada en Python usand
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
+   git clone https://github.com/jeftevelasco06/proyecto
